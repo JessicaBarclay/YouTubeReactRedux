@@ -1,6 +1,7 @@
-# YouTubeWithReact
+## YouTubeWithReact
 
-A simple React app that utlizises the YouTube search API, to alloq users to search and play their favorite videos - fast!
+*A simple React app that utlizises the YouTube search API*
+*Users can search and play their favorite videos - fast!*
 
 ### Getting Started
 
